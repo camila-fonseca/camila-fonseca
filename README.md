@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 I´m Camila Fonseca, a brazilian data professional with 3+ years of experience turning data insights into strategic decision-making.
 
 ## 💻 Skille in:
@@ -16,7 +16,8 @@ I´m Camila Fonseca, a brazilian data professional with 3+ years of experience t
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 ## 📫 Where to find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/camila-fonseca) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fonseca/) 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
