@@ -17,6 +17,8 @@ I´m Camila Fonseca, a brazilian data professional with 3+ years of experience t
 
 ## 📫 Where to find me:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fonseca/) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiladafonseca09@gmail.com)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
