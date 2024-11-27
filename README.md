@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-I´m Camila Fonseca, a brazilian data professional with 3+ years of experience turning data insights into strategic decision-making.
+I´m Camila Fonseca, a data professional with 3+ years of experience turning data insights into strategic decision-making.
 
 ## 💻 Skille in:
 ![Mycrosoft Office](https://camo.githubusercontent.com/80aee0587bf7e6a74ec00a58c8c4627c46120f75cdcb09e721bb928bfb29b7f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465)
