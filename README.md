@@ -16,7 +16,7 @@ I’m a native Portuguese speaker, but feel free to reach out in English as well
 
 - **Data Visualization & BI**
 - Power BI
-- Tableau – check some of my dashboards [here](https://public.tableau.com/app/profile/camila.fonseca3368/vizzes) ↗ 
+- Tableau – check some of my dashboards [here↗](https://public.tableau.com/app/profile/camila.fonseca3368/vizzes)
 
 **Productivity & Others**
 - Microsoft Office, Excel, Power Query
