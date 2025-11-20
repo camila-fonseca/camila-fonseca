@@ -14,9 +14,7 @@ I’m a native Portuguese speaker, but feel free to reach out in English as well
 - **Python Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Big Data Tools:** Databricks
 
-- **Data Visualization & BI**
-- Power BI
-- Tableau – check some of my dashboards [here↗](https://public.tableau.com/app/profile/camila.fonseca3368/vizzes)
+- **Data Visualization & BI:** Power BI, Tableau – check some of my dashboards [here↗](https://public.tableau.com/app/profile/camila.fonseca3368/vizzes)
 
 **Productivity & Others**
 - Microsoft Office, Excel, Power Query
