@@ -24,6 +24,6 @@ I’m a native Portuguese speaker, but feel free to reach out in English as well
 - Commercial & Business Analytics
 
 ## 📫 Where to find me:
-↗  [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fonseca/) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-fonseca/) ↗
 
-↗  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiladafonseca09@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiladafonseca09@gmail.com) ↗
